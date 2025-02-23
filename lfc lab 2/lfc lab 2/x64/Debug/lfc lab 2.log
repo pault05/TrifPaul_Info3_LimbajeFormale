@@ -1,0 +1,6 @@
+﻿  lfc_lab_2_ex_4.cpp
+C:\Users\paul_\source\repos\lfc lab 2\lfc lab 2\lfc_lab_2_ex_4.cpp(11,17): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+C:\Users\paul_\source\repos\lfc lab 2\lfc lab 2\lfc_lab_2_ex_4.cpp(33,17): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1252)
+C:\Users\paul_\source\repos\lfc lab 2\lfc lab 2\lfc_lab_2_ex_4.cpp(40,21): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1252)
+C:\Users\paul_\source\repos\lfc lab 2\lfc lab 2\lfc_lab_2_ex_4.cpp(46,17): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+  lfc lab 2.vcxproj -> C:\Users\paul_\source\repos\lfc lab 2\x64\Debug\lfc lab 2.exe

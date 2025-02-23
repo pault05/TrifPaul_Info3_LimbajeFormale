@@ -1,0 +1,17 @@
+CNP: 5030204260040
+Judet: Mures
+Oras: Targu Mures
+
+Denumire: Ciocolata
+U.M: buc
+Cant: 3
+Pret Uni: 10
+Pret Total: 30
+TVA: 19%
+
+Denumire: Apa
+U.M: bax
+Cant: 1
+Pret Uni: 20
+Pret Total: 20
+TVA: 19%
