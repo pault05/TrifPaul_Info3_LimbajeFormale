@@ -1,0 +1,8 @@
+stare curenta        eveniment        stare finala
+0                    parcheaza         1
+1                    parcheaza         2
+2                    parcheaza         3
+----------------------------------------
+n-1                  scoate            n
+n					 scoate            n-1
+...                  scoate            0       (pana s-a golit stiva)
