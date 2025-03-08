@@ -1,0 +1,5 @@
+stare curenta        intrare     stare urmatoare      iesire
+Q1					  X			  Q2					O1
+Q1                    Y           Q1                    O1
+Q2                    X           Q1                    O2
+Q2                    Y           Q2                    O2

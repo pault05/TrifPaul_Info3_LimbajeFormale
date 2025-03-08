@@ -1,0 +1,6 @@
+stare		a		b		epsilon
+q0          q1		q3       -
+q1		    -		-        q2
+q2          q3      q3       -
+q3          q4      -        q4
+q4          -       -        -
