@@ -1,0 +1,34 @@
+### FSA A - initial ###
+
+stare		0		1
+q0			q1		q2
+q1		    q3	    q2
+q2			q1		q3
+q3			q3		q3
+
+
+
+1. stare finala : q3
+    non-finale: q0, q1, q2
+
+2.
+
+stare 1       stare 2       diferentiate?
+q0             q1              nu
+q0             q2              nu
+q0             q3              Da (q3 este finala)
+q1             q2              nu
+q1             q3              Da (q3 este finala)
+q2             q3              Da (q3 este finala)
+
+
+=> toate perechile sunt deja distincte
+este deja minimizat!
+
+### tabel de tranzitie DFA minimizat ###
+
+stare    0    1
+q0      q1   q2
+q1      q3   q2
+q2      q1   q3
+q3      q3   q3

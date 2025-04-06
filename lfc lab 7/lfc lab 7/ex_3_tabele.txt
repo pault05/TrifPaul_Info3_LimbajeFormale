@@ -1,0 +1,39 @@
+﻿FSA B
+
+Stări: {s0, s1, s2}
+
+Alfabet: {0, 1}
+
+Stare inițială: s0
+
+Stare finală: {s2}
+
+Tranziții:
+
+δ(s0, 0) = s1
+
+δ(s0, 1) = s1
+
+δ(s1, 0) = s2
+
+δ(s1, 1) = s2
+
+δ(s2, 0) = s2
+
+δ(s2, 1) = s2
+
+
+-este deja determinist:
+fiecare stare are exact o tranziție pentru fiecare simbol din alfabet (0 si 1)
+niciuna nu are tranziții multiple pt acelasi simbol
+
+=> nu este nevoie de transformare
+
+
+tabel tranzitie pt DFA B
+
+stare   0    1
+s0     s1    s1
+s1     s2    s2
+s2     s2    s2
+
