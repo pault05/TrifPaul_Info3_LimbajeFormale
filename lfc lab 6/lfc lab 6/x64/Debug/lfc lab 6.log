@@ -1,0 +1,8 @@
+﻿  lfc_lab_6_ex_1.1.cpp
+  lfc_lab_6_ex_1.2.cpp
+  lfc_lab_6_ex_2.cpp
+C:\Users\paul_\source\repos\lfc lab 6\lfc lab 6\lfc_lab_6_ex_2.cpp(95,17): warning C4566: character represented by universal-character-name '\u222A' cannot be represented in the current code page (1252)
+C:\Users\paul_\source\repos\lfc lab 6\lfc lab 6\lfc_lab_6_ex_2.cpp(96,17): warning C4566: character represented by universal-character-name '\u2229' cannot be represented in the current code page (1252)
+C:\Users\paul_\source\repos\lfc lab 6\lfc lab 6\lfc_lab_6_ex_2.cpp(98,17): warning C4566: character represented by universal-character-name '\u2218' cannot be represented in the current code page (1252)
+  Generating Code...
+  lfc lab 6.vcxproj -> C:\Users\paul_\source\repos\lfc lab 6\x64\Debug\lfc lab 6.exe
